@@ -1,9 +1,5 @@
-> 
----
 
 ```bash
 echo "Jaum"
 > Jaum
 ```
-
----
